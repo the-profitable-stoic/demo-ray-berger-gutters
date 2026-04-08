@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-ray-berger-gutters.dream-surge.com/sitemap-index.xml

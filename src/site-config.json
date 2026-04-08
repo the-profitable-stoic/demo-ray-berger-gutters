@@ -1,0 +1,572 @@
+{
+  "business": {
+    "name": "Ray Berger Gutters",
+    "phone": "+15022671932",
+    "category": "gutter company",
+    "city": "Louisville",
+    "state": "KY"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Louisville's Gutter Experts",
+      "heroSubline": "Protecting homes and businesses with top-quality gutter solutions. Ray Berger Gutters: Installation, repair, and maintenance you can trust.",
+      "aboutTitle": "Decades of Gutter Expertise in Louisville",
+      "aboutText": [
+        "Ray Berger Gutters started with a simple mission: to provide Louisville homeowners with reliable and effective gutter solutions. Founded by Ray Berger himself, we've built a reputation for quality workmanship and unwavering dedication to customer satisfaction. We're not just another gutter company; we're your neighbors.",
+        "Our approach is straightforward: assess the specific needs of each property, recommend the best gutter system for the situation, and install it with precision. We believe in honest communication, transparent pricing, and going the extra mile to ensure every customer is completely happy with our work. Louisville's unpredictable weather demands reliable protection, and we deliver.",
+        "We're proud to be a part of the Louisville community. From sponsoring local youth sports teams to supporting neighborhood improvement initiatives, we're committed to giving back. We understand the unique challenges Louisville homes face, from the spring storms to the limestone foundations, and we're here to provide solutions you can depend on."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Louisville's climate and housing styles ensures tailored gutter solutions."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We use durable, weather-resistant materials designed to withstand Kentucky's harsh conditions."
+        },
+        {
+          "title": "Professional Installation",
+          "description": "Our skilled technicians ensure precise installation for optimal gutter performance and longevity."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "From initial consultation to final inspection, we provide dependable and responsive customer service."
+        }
+      ],
+      "ctaHeadline": "Protect Your Home Today",
+      "ctaSubline": "Get a free, no-obligation quote on gutter installation, repair, or maintenance."
+    },
+    "services": [
+      {
+        "slug": "gutter-installation",
+        "name": "Gutter Installation",
+        "shortDescription": "New gutters expertly installed to protect your Louisville home.",
+        "description": "Proper gutter installation is crucial for preventing water damage to your home's foundation, siding, and landscaping. At Ray Berger Gutters, we specialize in installing high-quality gutter systems that are built to last. We offer a variety of materials, including aluminum, copper, and steel, to match your home's aesthetic and budget. Our experienced technicians will assess your property's specific needs, considering factors like roof pitch, rainfall patterns, and landscaping, to recommend the best gutter system for your situation. We ensure seamless installation, proper drainage, and a clean finish. Protect your Louisville investment with a professionally installed gutter system from Ray Berger Gutters.\n\nWe handle everything from removing old, damaged gutters to precisely fitting new systems. We use only the highest-quality materials and proven installation techniques to ensure long-lasting performance. Our team is meticulous in their work, paying attention to every detail to guarantee a watertight seal and optimal water flow. We also offer downspout extensions and splash blocks to further protect your foundation from water damage.\n\nWith Louisville's frequent heavy rains and potential for flash flooding, a properly functioning gutter system is essential. Don't risk costly water damage to your home. Contact Ray Berger Gutters today for a free consultation and let us help you choose the perfect gutter system for your needs.",
+        "process": [
+          "Step 1: Assessment of your property's needs and existing gutter system.",
+          "Step 2: Recommendation of the best gutter material and system for your budget and aesthetic.",
+          "Step 3: Precise and professional installation by experienced technicians.",
+          "Step 4: Thorough inspection to ensure proper drainage and a watertight seal."
+        ],
+        "benefits": [
+          "Protects your foundation from water damage.",
+          "Prevents siding rot and decay.",
+          "Reduces the risk of basement flooding.",
+          "Maintains the value and beauty of your home."
+        ],
+        "faq": [
+          {
+            "question": "What type of gutters are best for my Louisville home?",
+            "answer": "The best type of gutters depends on factors like your budget, the style of your home, and the amount of rainfall your property receives. Aluminum gutters are a popular and affordable option, while copper gutters offer superior durability and a classic look. We can help you determine the best choice for your specific needs."
+          },
+          {
+            "question": "How long does gutter installation take?",
+            "answer": "The duration of gutter installation depends on the size and complexity of your home, as well as the type of gutter system being installed. Most installations can be completed in one to two days. We'll provide you with a more accurate timeframe during your free consultation."
+          },
+          {
+            "question": "Do you offer a warranty on your gutter installations?",
+            "answer": "Yes, we offer a comprehensive warranty on all of our gutter installations. This warranty covers both materials and workmanship, giving you peace of mind knowing that your investment is protected. Specific warranty details will be provided during your consultation."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-repair",
+        "name": "Gutter Repair",
+        "shortDescription": "Fast and reliable gutter repair services to fix leaks and damage.",
+        "description": "Damaged or leaking gutters can compromise your home's protection against water damage. Ray Berger Gutters offers prompt and professional gutter repair services to address any issues, from minor leaks to significant damage. We understand the urgency of gutter repairs, especially during Louisville's rainy seasons. Our experienced technicians will quickly diagnose the problem and implement the most effective repair solution. We handle all types of gutter repairs, including patching leaks, replacing damaged sections, re-securing gutters, and repairing downspouts. Don't let damaged gutters put your home at risk – call Ray Berger Gutters for reliable repair services.\n\nWe use quality materials and proven repair techniques to ensure long-lasting results. Whether it's a simple patch or a more complex repair, we'll get your gutters back in top condition quickly and efficiently. We also offer preventative maintenance services to help you avoid costly repairs in the future.\n\nIgnoring gutter damage can lead to serious problems like foundation cracks, siding rot, and basement flooding. Protect your Louisville home with timely gutter repairs from Ray Berger Gutters. We're committed to providing affordable and reliable solutions to keep your home safe and dry.",
+        "process": [
+          "Step 1: Thorough inspection to identify the source and extent of gutter damage.",
+          "Step 2: Recommendation of the most effective and affordable repair solution.",
+          "Step 3: Prompt and professional repair services using quality materials.",
+          "Step 4: Final inspection to ensure the repairs are effective and your gutters are functioning properly."
+        ],
+        "benefits": [
+          "Prevents further water damage to your home.",
+          "Extends the lifespan of your gutter system.",
+          "Saves you money on costly repairs in the future.",
+          "Restores the functionality and appearance of your gutters."
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my gutters need to be repaired?",
+            "answer": "Common signs of gutter damage include leaks, cracks, sagging, rust, and overflowing during rainstorms. You may also notice water damage on your siding or foundation. If you suspect your gutters are damaged, it's best to have them inspected by a professional."
+          },
+          {
+            "question": "How much does gutter repair cost?",
+            "answer": "The cost of gutter repair varies depending on the extent of the damage and the type of repair needed. We offer free estimates for all gutter repair services, so you'll know exactly what to expect before we begin any work."
+          },
+          {
+            "question": "Can I repair my gutters myself?",
+            "answer": "While some minor gutter repairs can be done DIY, it's often best to hire a professional for more complex repairs. Attempting to repair gutters yourself without the proper knowledge and tools can lead to further damage and potential injury."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-cleaning",
+        "name": "Gutter Cleaning",
+        "shortDescription": "Expert gutter cleaning to prevent clogs and water damage.",
+        "description": "Clogged gutters can lead to a host of problems, including water damage to your roof, siding, and foundation. Ray Berger Gutters offers professional gutter cleaning services to keep your gutters free of debris and functioning properly. We understand the importance of regular gutter cleaning, especially in Louisville, where seasonal changes can lead to an accumulation of leaves, twigs, and other debris. Our experienced technicians will thoroughly clean your gutters and downspouts, removing all obstructions and ensuring proper water flow. Protect your Louisville home with our reliable gutter cleaning services.\n\nWe use safe and effective cleaning methods to avoid damaging your gutters or your property. We also inspect your gutters for any signs of damage and recommend any necessary repairs. Regular gutter cleaning is an essential part of home maintenance, and we make it easy and affordable.\n\nDon't wait until your gutters are overflowing to schedule a cleaning. Contact Ray Berger Gutters today for a free estimate and let us help you keep your home protected from water damage.",
+        "process": [
+          "Step 1: Removal of all leaves, twigs, and other debris from your gutters and downspouts.",
+          "Step 2: Flushing of your gutters with water to ensure proper drainage.",
+          "Step 3: Inspection of your gutters for any signs of damage.",
+          "Step 4: Disposal of all debris in an environmentally responsible manner."
+        ],
+        "benefits": [
+          "Prevents water damage to your roof, siding, and foundation.",
+          "Reduces the risk of ice dams in the winter.",
+          "Extends the lifespan of your gutter system.",
+          "Keeps your home looking its best."
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my gutters cleaned?",
+            "answer": "We recommend having your gutters cleaned at least twice a year, in the spring and fall. If you have a lot of trees around your home, you may need to clean them more frequently."
+          },
+          {
+            "question": "Can I clean my gutters myself?",
+            "answer": "Cleaning gutters yourself can be dangerous, especially if you're not comfortable working on a ladder. It's also time-consuming and messy. Hiring a professional gutter cleaning service is a safe and convenient way to keep your gutters clean."
+          },
+          {
+            "question": "What happens if I don't clean my gutters?",
+            "answer": "If you don't clean your gutters, they can become clogged with debris, which can lead to water damage to your roof, siding, and foundation. Clogged gutters can also create a breeding ground for mosquitoes and other pests."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-guards",
+        "name": "Gutter Guards",
+        "shortDescription": "Install gutter guards to prevent clogs and reduce maintenance.",
+        "description": "Tired of constantly cleaning your gutters? Ray Berger Gutters offers gutter guard installation services to keep your gutters free of debris and reduce the need for frequent cleaning. We offer a variety of gutter guard options to suit your needs and budget, including mesh screens, foam inserts, and surface tension systems. Our experienced technicians will install your gutter guards quickly and efficiently, ensuring a perfect fit and optimal performance. With gutter guards from Ray Berger Gutters, you can say goodbye to clogged gutters and hello to hassle-free home maintenance.\n\nGutter guards are a smart investment for any Louisville homeowner. They not only prevent clogs but also protect your gutters from damage caused by heavy debris. We'll help you choose the best gutter guard system for your home and provide professional installation services.\n\nStop wasting time and energy cleaning your gutters. Contact Ray Berger Gutters today for a free estimate on gutter guard installation.",
+        "process": [
+          "Step 1: Assessment of your gutter system and debris accumulation.",
+          "Step 2: Recommendation of the best gutter guard system for your needs and budget.",
+          "Step 3: Professional installation of your chosen gutter guards.",
+          "Step 4: Inspection to ensure proper fit and functionality."
+        ],
+        "benefits": [
+          "Reduces the need for frequent gutter cleaning.",
+          "Protects your gutters from damage.",
+          "Prevents clogs and water damage.",
+          "Saves you time and money on maintenance."
+        ],
+        "faq": [
+          {
+            "question": "What are the different types of gutter guards?",
+            "answer": "There are several types of gutter guards available, including mesh screens, foam inserts, and surface tension systems. Each type has its own advantages and disadvantages. We can help you choose the best option for your specific needs."
+          },
+          {
+            "question": "How much do gutter guards cost?",
+            "answer": "The cost of gutter guards varies depending on the type of guard and the size of your home. We offer free estimates for all gutter guard installations, so you'll know exactly what to expect before we begin any work."
+          },
+          {
+            "question": "Do gutter guards eliminate the need for gutter cleaning?",
+            "answer": "While gutter guards significantly reduce the need for gutter cleaning, they don't eliminate it entirely. You may still need to occasionally clean your gutters to remove any fine debris that gets through the guards."
+          }
+        ]
+      },
+      {
+        "slug": "downspout-installation",
+        "name": "Downspout Installation & Repair",
+        "shortDescription": "Expert downspout services protecting your foundation from water damage.",
+        "description": "Properly functioning downspouts are essential for directing water away from your foundation and preventing water damage. Ray Berger Gutters specializes in downspout installation and repair services to ensure your home is adequately protected. We understand that Louisville's clay-rich soil can exacerbate water damage issues if drainage isn't managed correctly. Our experienced technicians will assess your property's drainage needs and install downspouts that effectively channel water away from your foundation. We also repair damaged downspouts, ensuring they are free of clogs and functioning properly. Protect your Louisville home with our reliable downspout services.\n\nWe offer a variety of downspout materials and styles to match your home's aesthetic. We also install downspout extensions and splash blocks to further protect your foundation from water damage. Our team is meticulous in their work, ensuring proper drainage and a clean finish.\n\nDon't underestimate the importance of properly functioning downspouts. Contact Ray Berger Gutters today for a free consultation and let us help you protect your home from water damage.",
+        "process": [
+          "Step 1: Assessment of your property's drainage needs and existing downspout system.",
+          "Step 2: Recommendation of the best downspout material and placement for optimal performance.",
+          "Step 3: Precise and professional installation or repair by experienced technicians.",
+          "Step 4: Thorough inspection to ensure proper drainage and water flow."
+        ],
+        "benefits": [
+          "Protects your foundation from water damage.",
+          "Prevents soil erosion around your home.",
+          "Reduces the risk of basement flooding.",
+          "Maintains the value and integrity of your property."
+        ],
+        "faq": [
+          {
+            "question": "How far should downspouts extend from my foundation?",
+            "answer": "Downspouts should ideally extend at least 4-6 feet away from your foundation. This helps to ensure that water is directed away from your home's base and prevents water from seeping into your basement."
+          },
+          {
+            "question": "What are the signs of a damaged downspout?",
+            "answer": "Common signs of a damaged downspout include cracks, leaks, rust, and detachment from the gutter system. You may also notice water pooling around your foundation or soil erosion near the downspout outlet."
+          },
+          {
+            "question": "Can I install downspouts myself?",
+            "answer": "While some basic downspout repairs can be done DIY, it's often best to hire a professional for more complex installations or repairs. Improper downspout installation can lead to water damage, so it's important to ensure the job is done correctly."
+          }
+        ]
+      },
+      {
+        "slug": "soffit-fascia",
+        "name": "Soffit & Fascia Repair",
+        "shortDescription": "Protecting your roofline with expert soffit and fascia services.",
+        "description": "Soffit and fascia play a crucial role in protecting your roofline and preventing water damage to your home. Ray Berger Gutters offers professional soffit and fascia repair services to ensure your home is properly protected. We understand that Louisville's humid climate can accelerate the deterioration of soffit and fascia, leading to rot and pest infestations. Our experienced technicians will inspect your soffit and fascia for any signs of damage and provide the necessary repairs to keep your roofline in top condition. Protect your Louisville home with our reliable soffit and fascia services.\n\nWe use quality materials and proven repair techniques to ensure long-lasting results. Whether it's replacing damaged sections or repairing minor cracks, we'll get your soffit and fascia back in top condition quickly and efficiently. We also offer preventative maintenance services to help you avoid costly repairs in the future.\n\nIgnoring soffit and fascia damage can lead to serious problems like roof leaks, pest infestations, and structural damage. Contact Ray Berger Gutters today for a free estimate and let us help you keep your home protected.",
+        "process": [
+          "Step 1: Thorough inspection to identify any damage to your soffit and fascia.",
+          "Step 2: Recommendation of the most effective and affordable repair solution.",
+          "Step 3: Professional repair services using quality materials.",
+          "Step 4: Final inspection to ensure the repairs are effective and your roofline is properly protected."
+        ],
+        "benefits": [
+          "Protects your roof from water damage.",
+          "Prevents pest infestations.",
+          "Improves your home's ventilation.",
+          "Enhances your home's curb appeal."
+        ],
+        "faq": [
+          {
+            "question": "What is soffit and fascia?",
+            "answer": "Soffit is the material that covers the underside of your roof overhang, while fascia is the vertical board that runs along the edge of your roof. Both play a crucial role in protecting your roofline from the elements."
+          },
+          {
+            "question": "How do I know if my soffit and fascia need to be repaired?",
+            "answer": "Common signs of soffit and fascia damage include rot, cracks, peeling paint, and pest infestations. You may also notice water damage on your interior walls or ceilings."
+          },
+          {
+            "question": "How much does soffit and fascia repair cost?",
+            "answer": "The cost of soffit and fascia repair varies depending on the extent of the damage and the type of repair needed. We offer free estimates for all soffit and fascia repair services, so you'll know exactly what to expect before we begin any work."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Louisville",
+        "slug": "louisville-ky",
+        "state": "KY",
+        "content": "Ray Berger Gutters is proud to serve the Louisville, Kentucky area. We understand the unique challenges that Louisville homeowners face when it comes to gutter maintenance, from heavy rainfall to seasonal leaf accumulation. Our expert team provides comprehensive gutter services, including installation, repair, cleaning, and gutter guard solutions, ensuring your home is protected from water damage.\n\nWe're committed to delivering top-quality workmanship and exceptional customer service to our Louisville neighbors. Whether you live downtown, in the Highlands, or in the suburbs, Ray Berger Gutters is your trusted partner for all your gutter needs. We use only the best materials and employ proven techniques to ensure long-lasting performance and protection for your home.",
+        "localContext": "Louisville's diverse neighborhoods and variable weather patterns require tailored gutter solutions to effectively manage water runoff and prevent damage.",
+        "nearbyAreas": [
+          "Jeffersontown",
+          "St. Matthews",
+          "Shively"
+        ]
+      },
+      {
+        "city": "Jeffersontown",
+        "slug": "jeffersontown-ky",
+        "state": "KY",
+        "content": "Ray Berger Gutters extends its reliable gutter services to Jeffersontown, Kentucky. We understand the importance of properly functioning gutters in protecting your home from water damage, especially with the area's seasonal rainfall. Our skilled technicians offer a full range of services, including gutter installation, repair, cleaning, and the installation of effective gutter guards.\n\nWe are dedicated to providing Jeffersontown homeowners with high-quality gutter solutions that meet their specific needs. From residential homes to commercial properties, Ray Berger Gutters ensures that your property is protected from the damaging effects of water. We use durable materials and expert craftsmanship to deliver long-lasting results and peace of mind.",
+        "localContext": "Jeffersontown's mix of residential and commercial properties requires diverse gutter solutions to effectively manage rainwater and protect buildings.",
+        "nearbyAreas": [
+          "Louisville",
+          "Buechel",
+          "Lyndon"
+        ]
+      },
+      {
+        "city": "St. Matthews",
+        "slug": "st-matthews-ky",
+        "state": "KY",
+        "content": "Ray Berger Gutters is pleased to offer expert gutter services to the residents of St. Matthews, Kentucky. We recognize the importance of maintaining a well-functioning gutter system to safeguard your home against the elements. Our team provides comprehensive gutter solutions, including installation, repairs, cleaning, and gutter guard installation, ensuring your home remains protected from potential water damage.\n\nWe are committed to delivering superior workmanship and exceptional customer service to our St. Matthews clients. Whether you need a new gutter system installed or your existing gutters repaired or cleaned, Ray Berger Gutters is your trusted partner. We use high-quality materials and proven techniques to ensure long-lasting performance and protection for your home.",
+        "localContext": "St. Matthews' established neighborhoods and tree-lined streets necessitate specialized gutter maintenance to prevent clogs and water damage.",
+        "nearbyAreas": [
+          "Louisville",
+          "Lyndon",
+          "Indian Hills"
+        ]
+      },
+      {
+        "city": "Shively",
+        "slug": "shively-ky",
+        "state": "KY",
+        "content": "Ray Berger Gutters proudly serves the Shively, Kentucky community with top-notch gutter services. We understand the importance of having a properly functioning gutter system to protect your home from water damage, especially during heavy rainfalls. Our team offers a comprehensive range of services, including gutter installation, repair, cleaning, and gutter guard solutions to ensure your home is well-protected.\n\nWe are dedicated to providing Shively homeowners with reliable and affordable gutter solutions. From small repairs to complete gutter system replacements, Ray Berger Gutters is committed to delivering exceptional workmanship and customer satisfaction. We use only the highest quality materials and employ expert techniques to ensure long-lasting performance and protection for your home.",
+        "localContext": "Shively's residential areas benefit from reliable gutter systems to protect homes from water damage caused by seasonal weather patterns.",
+        "nearbyAreas": [
+          "Louisville",
+          "Pleasure Ridge Park",
+          "Valley Station"
+        ]
+      },
+      {
+        "city": "Lyndon",
+        "slug": "lyndon-ky",
+        "state": "KY",
+        "content": "Ray Berger Gutters is delighted to provide its expert gutter services to the residents of Lyndon, Kentucky. We understand that properly functioning gutters are crucial for protecting your home from water damage, especially with the area's frequent rainfall. Our team offers a full suite of services, including gutter installation, repair, cleaning, and effective gutter guard solutions.\n\nWe are dedicated to providing Lyndon homeowners with high-quality, dependable gutter solutions tailored to their specific needs. Whether you require a new gutter system or need your existing gutters cleaned and maintained, Ray Berger Gutters is your trusted partner. We use durable materials and expert craftsmanship to deliver long-lasting results and peace of mind.",
+        "localContext": "Lyndon's residential character and varying home styles require adaptable gutter solutions to effectively manage water runoff and prevent foundation issues.",
+        "nearbyAreas": [
+          "St. Matthews",
+          "Jeffersontown",
+          "Louisville"
+        ]
+      },
+      {
+        "city": "Middletown",
+        "slug": "middletown-ky",
+        "state": "KY",
+        "content": "Ray Berger Gutters is proud to extend its services to Middletown, Kentucky, offering top-quality gutter solutions for homeowners. We understand the importance of a properly functioning gutter system to protect your home from water damage, especially considering the region's weather patterns. Our experienced team provides a comprehensive range of services, including gutter installation, repair, cleaning, and gutter guard installation.\n\nWe are committed to delivering exceptional workmanship and customer satisfaction to our Middletown clients. Whether you need a new gutter system installed or require maintenance for your existing gutters, Ray Berger Gutters is your reliable partner. We utilize high-quality materials and proven techniques to ensure long-lasting performance and protection for your home.",
+        "localContext": "Middletown's mix of older and newer homes requires customized gutter solutions to address diverse architectural styles and drainage needs.",
+        "nearbyAreas": [
+          "Anchorage",
+          "Jeffersontown",
+          "Louisville"
+        ]
+      },
+      {
+        "city": "Anchorage",
+        "slug": "anchorage-ky",
+        "state": "KY",
+        "content": "Ray Berger Gutters is pleased to offer its professional gutter services to the residents of Anchorage, Kentucky. We recognize the importance of maintaining a well-functioning gutter system to safeguard your home against the elements. Our team provides comprehensive gutter solutions, including installation, repairs, cleaning, and gutter guard installation, ensuring your home remains protected from potential water damage.\n\nWe are committed to delivering superior workmanship and exceptional customer service to our Anchorage clients. Whether you need a new gutter system installed or your existing gutters repaired or cleaned, Ray Berger Gutters is your trusted partner. We use high-quality materials and proven techniques to ensure long-lasting performance and protection for your home.",
+        "localContext": "Anchorage's larger properties and wooded areas necessitate robust gutter systems to manage significant water runoff and prevent debris accumulation.",
+        "nearbyAreas": [
+          "Middletown",
+          "Lyndon",
+          "Pewee Valley"
+        ]
+      },
+      {
+        "city": "Valley Station",
+        "slug": "valley-station-ky",
+        "state": "KY",
+        "content": "Ray Berger Gutters is dedicated to providing Valley Station, Kentucky with exceptional gutter services. We know how crucial properly working gutters are to protect homes from water damage, especially with the area's seasonal weather. Our team offers a full range of services, including new gutter installations, repairs, cleaning, and the installation of effective gutter guards.\n\nWe are committed to providing Valley Station homeowners with high-quality gutter solutions tailored to their individual needs. From residential homes to commercial properties, Ray Berger Gutters ensures your property is protected from water damage. We use durable materials and expert craftsmanship to provide long-lasting results and peace of mind.",
+        "localContext": "Valley Station's location near the Ohio River means homes benefit greatly from properly installed and maintained gutter systems to manage rainwater effectively.",
+        "nearbyAreas": [
+          "Shively",
+          "Pleasure Ridge Park",
+          "Louisville"
+        ]
+      },
+      {
+        "city": "Buechel",
+        "slug": "buechel-ky",
+        "state": "KY",
+        "content": "Ray Berger Gutters is delighted to offer its expert gutter services to the residents of Buechel, Kentucky. We understand that properly functioning gutters are crucial for protecting your home from water damage, especially with the area's frequent rainfall. Our team offers a full suite of services, including gutter installation, repair, cleaning, and effective gutter guard solutions.\n\nWe are dedicated to providing Buechel homeowners with high-quality, dependable gutter solutions tailored to their specific needs. Whether you require a new gutter system or need your existing gutters cleaned and maintained, Ray Berger Gutters is your trusted partner. We use durable materials and expert craftsmanship to deliver long-lasting results and peace of mind.",
+        "localContext": "Buechel's diverse housing styles and mature trees necessitate gutter services that can handle varied rooflines and leaf debris.",
+        "nearbyAreas": [
+          "Jeffersontown",
+          "Louisville",
+          "Hurstbourne"
+        ]
+      },
+      {
+        "city": "Hurstbourne",
+        "slug": "hurstbourne-ky",
+        "state": "KY",
+        "content": "Ray Berger Gutters proudly serves the Hurstbourne, Kentucky community with top-notch gutter services. We understand the importance of having a properly functioning gutter system to protect your home from water damage, especially during heavy rainfalls. Our team offers a comprehensive range of services, including gutter installation, repair, cleaning, and gutter guard solutions to ensure your home is well-protected.\n\nWe are dedicated to providing Hurstbourne homeowners with reliable and affordable gutter solutions. From small repairs to complete gutter system replacements, Ray Berger Gutters is committed to delivering exceptional workmanship and customer satisfaction. We use only the highest quality materials and employ expert techniques to ensure long-lasting performance and protection for your home.",
+        "localContext": "Hurstbourne's residential landscape, with its mix of established and newer homes, requires tailored gutter solutions for optimal water management.",
+        "nearbyAreas": [
+          "Buechel",
+          "Jeffersontown",
+          "Lyndon"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Gutter Installation",
+        "text": "Ray Berger Gutters installed a new gutter system on my house in the Highlands, and I couldn't be happier! The team was professional, efficient, and the gutters look fantastic. They really took the time to explain the different options and helped me choose the best system for my needs. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "John B.",
+        "rating": 4,
+        "service": "Gutter Repair",
+        "text": "Had a leak in my gutters after a bad storm. Called Ray Berger Gutters, and they came out the next day to fix it. The repair was quick and affordable. Appreciated their prompt service!",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Emily K.",
+        "rating": 5,
+        "service": "Gutter Cleaning",
+        "text": "Ray Berger Gutters cleaned my gutters and downspouts, which were completely clogged with leaves. They did a thorough job and left my property clean. I'll definitely be using them again!",
+        "date": "2024-09-08"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Gutter Guards",
+        "text": "I had Ray Berger Gutters install gutter guards on my home. I'm so glad I did! No more climbing ladders to clean out gutters. It's been a huge time saver, and the guards seem to be working perfectly.",
+        "date": "2025-01-22"
+      },
+      {
+        "name": "Jessica T.",
+        "rating": 4,
+        "service": "Downspout Repair",
+        "text": "One of my downspouts was damaged and causing water to pool near my foundation. Ray Berger Gutters repaired it quickly and professionally. They even recommended a downspout extension to better direct the water away from my house. Great service!",
+        "date": "2024-12-05"
+      },
+      {
+        "name": "Michael S.",
+        "rating": 5,
+        "service": "Gutter Installation",
+        "text": "Ray Berger Gutters recently installed new seamless gutters on my business in NuLu. The team was efficient, professional, and the new gutters look great! They even helped me choose a color that matched the building perfectly. Highly recommend their services!",
+        "date": "2025-04-10"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Ray Berger Gutters | Louisville KY",
+        "description": "Expert gutter services in Louisville. Installation, repair, cleaning. Protect your home from water damage. Free quotes!"
+      },
+      "about": {
+        "title": "About Ray Berger Gutters | Louisville KY",
+        "description": "Learn about Ray Berger Gutters' history, values, and commitment to quality gutter services in the Louisville community."
+      },
+      "services": {
+        "title": "Gutter Services | Ray Berger Gutters",
+        "description": "Comprehensive gutter services in Louisville KY. Installation, repair, cleaning, gutter guards. Protect your home today!"
+      },
+      "contact": {
+        "title": "Contact Ray Berger Gutters",
+        "description": "Contact Ray Berger Gutters for a free quote on gutter installation, repair, or cleaning services in Louisville, KY."
+      },
+      "reviews": {
+        "title": "Ray Berger Gutters Reviews",
+        "description": "Read reviews from satisfied Ray Berger Gutters customers in Louisville, KY. See why we're the trusted choice for gutter services."
+      },
+      "service-areas": {
+        "title": "Ray Berger Gutters Service Areas",
+        "description": "Ray Berger Gutters provides gutter services in Louisville and surrounding areas. See our full service area list."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "gutter-installation": "/images/service-gutter-installation.webp",
+      "gutter-repair": "/images/service-gutter-repair.webp",
+      "gutter-cleaning": "/images/service-gutter-cleaning.webp",
+      "gutter-guards": "/images/service-gutter-guards.webp",
+      "downspout-installation": "/images/service-downspout-installation.webp",
+      "soffit-fascia": "/images/service-soffit-fascia.webp"
+    },
+    "servicesResponsive": {
+      "gutter-installation": {
+        "src": "/images/service-gutter-installation.webp",
+        "srcset": "/images/service-gutter-installation-400w.webp 400w, /images/service-gutter-installation-800w.webp 800w, /images/service-gutter-installation-1200w.webp 1200w, /images/service-gutter-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-repair": {
+        "src": "/images/service-gutter-repair.webp",
+        "srcset": "/images/service-gutter-repair-400w.webp 400w, /images/service-gutter-repair-800w.webp 800w, /images/service-gutter-repair-1200w.webp 1200w, /images/service-gutter-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-cleaning": {
+        "src": "/images/service-gutter-cleaning.webp",
+        "srcset": "/images/service-gutter-cleaning-400w.webp 400w, /images/service-gutter-cleaning-800w.webp 800w, /images/service-gutter-cleaning-1200w.webp 1200w, /images/service-gutter-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-guards": {
+        "src": "/images/service-gutter-guards.webp",
+        "srcset": "/images/service-gutter-guards-400w.webp 400w, /images/service-gutter-guards-800w.webp 800w, /images/service-gutter-guards-1200w.webp 1200w, /images/service-gutter-guards.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "downspout-installation": {
+        "src": "/images/service-downspout-installation.webp",
+        "srcset": "/images/service-downspout-installation-400w.webp 400w, /images/service-downspout-installation-800w.webp 800w, /images/service-downspout-installation-1200w.webp 1200w, /images/service-downspout-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "soffit-fascia": {
+        "src": "/images/service-soffit-fascia.webp",
+        "srcset": "/images/service-soffit-fascia-400w.webp 400w, /images/service-soffit-fascia-800w.webp 800w, /images/service-soffit-fascia-1200w.webp 1200w, /images/service-soffit-fascia.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
